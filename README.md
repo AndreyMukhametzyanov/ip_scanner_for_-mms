@@ -5,11 +5,9 @@
 <details>
   <summary>Принцип работы</summary>
 
-  ```
 1. Сканирует локальную сеть.
-2. В диапазоне портов от 1000 до 10000, для каждого найденного IP проверяет корректность отклика
- по предоставляемым данным с API станка https://github.com/AndreyMukhametzyanov/drilling_machine 
-  ```
+2. В диапазоне портов от 1000 до 10000, для каждого найденного IP проверяет корректность отклика по предоставляемым данным с API станка [Lathe emulator](https://github.com/AndreyMukhametzyanov/lathe_emulator).
+
 </details>
 
 
